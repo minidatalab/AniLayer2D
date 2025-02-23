@@ -12,21 +12,15 @@
 
 ## 📖 Overview
 
----
-
 TBD
 
 ## 🛠️ TODO List
-
----
 
 - [ ] Upload data using sample code
 - [ ] Upload data labeling results
 - [ ] Upload **``part & step``** image dataset
 
 ## 📦 Dataset Format
-
----
 
 ```markdown
 AniLayer2D_Data_Root
@@ -42,8 +36,6 @@ AniLayer2D_Data_Root
 
 ## 🎁 Acknowledgements
 
----
-
 ### Model
 
 - live2d: https://github.com/imuncle/live2d
@@ -56,8 +48,6 @@ AniLayer2D_Data_Root
 **Greatly appreciated for the support provided by [Arkueid](https://github.com/Arkueid) !!!**
 
 ## ☎️ Community & Contact
-
----
 
 This dataset was created on a whim, with limited knowledge in this field. Future plans include integrating multi-layer processing for moc/moc3/spine data. If interested or experienced, feel free to reach out. Guidance in this area would be greatly appreciated.
 
